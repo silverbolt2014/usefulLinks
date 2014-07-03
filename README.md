@@ -9,3 +9,5 @@ http://en.wikipedia.org/wiki/Shebang_(Unix)
 
 
 http://en.wikipedia.org/wiki/Loader_(computing)
+
+http://www.youtube.com/watch?v=iQsKdtjwtYI
