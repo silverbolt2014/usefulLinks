@@ -16,4 +16,3 @@ Various Programming Notes
 ==========================
 https://www3.ntu.edu.sg/home/ehchua/programming/index.html
 
-How https works: https://github.com/silverbolt2014/usefulLinks/blob/master/README.md
