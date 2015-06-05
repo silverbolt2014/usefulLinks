@@ -17,3 +17,6 @@ Various Programming Notes
 ==========================
 https://www3.ntu.edu.sg/home/ehchua/programming/index.html
 
+
+MVC
+https://thirstyforcola.wordpress.com/2013/07/09/what-the-hell-is-an-mvc/
