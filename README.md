@@ -20,3 +20,9 @@ https://www3.ntu.edu.sg/home/ehchua/programming/index.html
 
 MVC
 https://thirstyforcola.wordpress.com/2013/07/09/what-the-hell-is-an-mvc/
+
+
+==========
+http://www.labnol.org/software/run-linux-with-windows/19746/
+
+http://bellard.org/jslinux/index.html
