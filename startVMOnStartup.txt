@@ -1,0 +1,11 @@
+How to make a VM start at windows launch
+
+You can create a shortcut to VMWare Player and pass it a parameter, where that parameter is the location of the VMX file. Then put that shortcut in your windows Startup folder.
+
+For example (Target): "C:\Program Files (x86)\VMWare Player\vmplayer.exe" "C:\Virtual Machines\Serve\Serve.vmx"
+
+To place the shortcut in the startup folder:
+
+Search for "run"
+type shell:startup
+Place the shortcut in the startup folder
