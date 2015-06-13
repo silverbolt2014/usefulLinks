@@ -26,3 +26,10 @@ https://thirstyforcola.wordpress.com/2013/07/09/what-the-hell-is-an-mvc/
 http://www.labnol.org/software/run-linux-with-windows/19746/
 
 http://bellard.org/jslinux/index.html
+
+
+=========
+
+Javascript code documentation
+
+http://usejsdoc.org/index.html
